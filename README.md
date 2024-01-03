@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PauloJSM
 - 👀 I’m interested in CyberSec
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on CTF's
+- 💞️ I’m looking to collaborate in CTF's
 - 📫 How to reach me hickbullionmount@gmail.com
 
 <!---
