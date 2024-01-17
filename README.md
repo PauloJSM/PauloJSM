@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloJSM
 - 👀 I’m interested in CyberSec
-- 🌱 I’m currently learning Pyhton, general IT, Linux and Networking.
+- 🌱 I’m currently learning C# and SQL.
 - 💞️ I’m looking to collaborate in CTF's
 - 📫 How to reach me hickbullionmount@gmail.com
 
